@@ -143,7 +143,7 @@ BMesh Mesh Data
 ***************
 
 This is a node that exposes vertices, edges and faces as mesh data (Vectors and Indices) or
-Animation Nodes Vertes and Polygon data, just like the Object Mesh Data node, but from BMesh.
+Animation Nodes Vertex and Polygon data, just like the Object Mesh Data node, but from BMesh.
 
     .. image:: images_v1_6/bmesh_mesh_data.png
 
